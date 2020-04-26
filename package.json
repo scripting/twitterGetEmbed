@@ -1,0 +1,17 @@
+{
+	"name": "twittergetembed",
+	"description": "Just handle twitter embeds, for Scripting News. We want this to be instantaneous, always.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"version": "0.4.0",
+	"scripts": {
+		"start": "node twittergetembed.js"
+		},
+	"dependencies" : {
+		"daveutils": "*",
+		"davehttp": "*"
+		}, 
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+		}
+	}
